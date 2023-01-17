@@ -37,7 +37,7 @@ wolf_classifier() {
 ![](assets/wolf_images.png)
 
 The issue with this classifier is that it will not be able to differentiate
-between a wolf and a dog that looks like a wolf.![img.png](img.png)
+between a wolf and a dog that looks like a wolf.
 
 - The way to get around this is **Supervised Learning**.
 
