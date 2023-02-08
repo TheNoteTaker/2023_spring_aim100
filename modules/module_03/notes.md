@@ -325,7 +325,7 @@ they need to be licensed:
 - Radio Astronomy
 - Air Traffic Control
 
-**Millimeter Waves** are like visible light in that they need a direct line of 
+**Millimeter Waves** are like visible light in that they need a direct line of
 sight in order to properly make contact.
 
 Higher frequency and shorter wave lengths equate to higher energy.
@@ -333,13 +333,13 @@ Higher frequency and shorter wave lengths equate to higher energy.
 <u>Different Types of Waves:</u>
 
 - Low Band
-  - Slowest
-- Mid Band 
-  - Faster
-  - Short distance
-  - MM Wave / High Band
-    - Fastest
-    - Shortest Distance
+    - Slowest
+- Mid Band
+    - Faster
+    - Short distance
+    - MM Wave / High Band
+        - Fastest
+        - Shortest Distance
 
 ## Networking
 
@@ -401,4 +401,80 @@ ability to compute things with artificial intelligence.
 <u>Our computing power over the years:</u>
 
 ![](assets/computing_power.png)
+
+# Labs
+
+## Sources
+
+- <https://teachablemachine.withgoogle.com/train/image>
+- <https://web.archive.org/web/20210305170224/http://www.image-net.org/synset?wnid=n02123159>
+- <https://www.kaggle.com/jessicali9530/celeba-dataset>
+
+## Overview - Teachable Machine by Google
+
+- A web-based tool for creating machine learning models that is accessible to
+  everyone
+- No prior machine learning knowledge required
+- Allows the computer to recognize images, sounds, and poses without writing
+  code
+- Can be used in own projects, sites, apps, etc.
+
+## Part 1 - Downloading the datasets
+
+- Download the required assets for training the model
+
+## Part 2 - Create first model (Cats vs Tigers)
+
+Follow the video tutorial on YouTube: <https://youtu.be/"HQxdGEXOeQ>
+
+1. Use Google Images to find photos of cats and tigers to verify the model
+2. Try to find a photo that gives less accurate results
+3. Find 3 photos of cats, tigers, or both to verify the model
+4. Use Windows Snippit (or Windows Key + Shift + S) to take snapshots of the
+   output
+5. Try verifying with a picture of a dog and include the snapshot of the
+   output
+
+## Part 3 - Understanding the Model
+
+- The model created only recognizes the appearance of the objects, not what they
+  actually are.
+- The computer does not have memories, emotions, or knowledge about cats or
+  tigers.
+- The model only knows how to differentiate between objects based on the
+  datasets provided.
+- When evaluating, the model tries to determine how closely the image conforms
+  to one dataset or the other.
+- The model is memorizing the appearance of the datasets, not the actual
+  knowledge of the things in the images.
+- The model only knows the difference between the objects based on the datasets.
+
+## Part 4 - Creating own Dataset and Model (Various Fruits)
+
+- Use webcam to create a new project in Teachable Machine
+- Stop by the grocery store to get 3 different fruits (apple, orange, and
+  banana)
+- Create a new project in Teachable Machine
+- Add Image Samples for each fruit class using the webcam
+    - Name each class after the chosen fruit
+- Hold and record one fruit at a time while moving it around in the captured
+  images
+    - Add at least 50 Image Samples of each fruit
+- Train the model
+- Preview the model with the webcam by holding each fruit up and observing the
+  output prediction changes.
+
+### Notes
+
+- Troubleshoot webcam issues if necessary
+- The goal is to create a model based on the various fruits.
+
+## Troubleshooting
+
+- [Chrome Support](https://support.google.com/chrome/answer/2693767?co=GENIE.Platform%3DDesktop&hl=en)
+- [Firefox Support](https://support.mozilla.org/en-US/kb/how-manage-your-camera-and-microphone-permissions)
+- [Mac Support](https://support.apple.com/en-gb/HT211130)
+
+
+
 
