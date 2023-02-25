@@ -132,6 +132,18 @@ Some questions asked against autonomous systems:
 - <https://www.nature.com/articles/s42256-019-0088-2#Sec15>
 - <https://futureoflife.org/ai-policy>
 
+## Resources For Study
+
+- [Turing Institute (UK)](https://www.turing.ac.uk/media/news/alan-turing-institute-data-ethics-group/)
+- [AI Now](https://ainowinstitute.org/)
+- [Leverhulme Centre for the Future of Intelligence](http://lcfi.ac.uk/)
+- [Future of Humanity Institute](https://www.fhi.ox.ac.uk/)
+- [Future of Life Institute](https://futureoflife.org/)
+- [Stanford Center for Internet and Society](http://cyberlaw.stanford.edu/)
+- [Berkman Klein Center](https://cyber.harvard.edu/)
+- [Digital Ethics Lab](http://digitalethicslab.oii.ox.ac.uk/)
+- [Open Roboethics Institute](http://www.openroboethics.org/)	
+
 # Ethical Principles
 
 ![](assets/ethical_principles.png)
