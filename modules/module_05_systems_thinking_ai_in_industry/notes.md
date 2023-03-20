@@ -1,5 +1,31 @@
 # Module 5 - Systems Thinking
 
+<!-- TOC -->
+* [Module 5 - Systems Thinking](#module-5---systems-thinking)
+* [General Notes](#general-notes)
+* [Basics of Systems Maps](#basics-of-systems-maps)
+  * [Principles of Systems Thinking](#principles-of-systems-thinking)
+    * [Interconnectedness](#interconnectedness)
+      * [Example of Circular Mindset](#example-of-circular-mindset)
+    * [Synthesis](#synthesis)
+    * [Emergence](#emergence)
+    * [Feedback Loops](#feedback-loops)
+    * [Causality](#causality)
+  * [Further Reading](#further-reading)
+* [AI Industry Guest Speaker](#ai-industry-guest-speaker)
+  * [General Notes](#general-notes-1)
+  * [Industrial AI](#industrial-ai)
+    * [Types of Machine Learning Jobs](#types-of-machine-learning-jobs)
+    * [MLOps Engineer](#mlops-engineer)
+    * [Data Engineer](#data-engineer)
+      * [Role](#role)
+      * [Tools](#tools)
+* [Lab - Audio Classifier](#lab---audio-classifier)
+  * [Sources](#sources)
+  * [Creating The Sample Data](#creating-the-sample-data)
+  * [Understanding The Model](#understanding-the-model)
+<!-- TOC -->
+
 # General Notes
 
 - [Loopy](https://ncase.me/loopy/)

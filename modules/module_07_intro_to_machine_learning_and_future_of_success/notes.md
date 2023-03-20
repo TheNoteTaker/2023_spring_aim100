@@ -1,5 +1,45 @@
 # Module 7 - Intro to ML & Future of Success in AI
 
+<!-- TOC -->
+* [Module 7 - Intro to ML & Future of Success in AI](#module-7---intro-to-ml--future-of-success-in-ai)
+* [General Notes](#general-notes)
+* [Future of Success in AI](#future-of-success-in-ai)
+  * [Finding a Job in AI](#finding-a-job-in-ai)
+  * [Gaining Experience](#gaining-experience)
+  * [Personal Projects](#personal-projects)
+  * [Resources for Learning](#resources-for-learning)
+  * [Hackathons / Coding Challenges](#hackathons--coding-challenges)
+  * [Internships](#internships)
+    * [Geting a Machine Learning Internship (YT Video Notes)](#geting-a-machine-learning-internship--yt-video-notes-)
+  * [Machine Learning Specializations](#machine-learning-specializations)
+  * [Searching For Internships / Jobs](#searching-for-internships--jobs)
+  * [Example roles of an AI team](#example-roles-of-an-ai-team)
+    * [Getting Started With a Small Team](#getting-started-with-a-small-team)
+  * [Shifting Through Job Reqs](#shifting-through-job-reqs)
+* [Intro to Machine Learning](#intro-to-machine-learning)
+  * [ML Learning Types](#ml-learning-types)
+    * [Supervised Learning](#supervised-learning)
+    * [Unsupervised Learning](#unsupervised-learning)
+    * [Reinforcement Learning](#reinforcement-learning)
+    * [Learning Optimization](#learning-optimization)
+  * [Measuring Classification](#measuring-classification)
+  * [Linear Regression](#linear-regression)
+  * [K-Nearest Neighbors](#k-nearest-neighbors)
+  * [K-Means Clustering](#k-means-clustering)
+  * [Na&Iuml;ve Bayes](#naiumlve-bayes)
+  * [Support Vector Machines](#support-vector-machines)
+  * [Decision Trees](#decision-trees)
+  * [Markov Decision Process](#markov-decision-process)
+  * [Logistic Regression](#logistic-regression)
+  * [Neural Networks](#neural-networks)
+* [Lab 5 - Clustering Iris Flowers](#lab-5---clustering-iris-flowers)
+  * [Overview of K-Means Clustering](#overview-of-k-means-clustering)
+  * [Creating Our First K-Means Clustering Algorithm](#creating-our-first-k-means-clustering-algorithm)
+  * [Understanding The Model](#understanding-the-model)
+    * [K-Means Clustering](#k-means-clustering-1)
+  * [Evaluating The Model](#evaluating-the-model)
+<!-- TOC -->
+
 # General Notes
 
 # Future of Success in AI

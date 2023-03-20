@@ -1,5 +1,39 @@
 # Module 2 Notes for AIM100
 
+<!-- TOC -->
+* [Module 2 Notes for AIM100](#module-2-notes-for-aim100)
+* [General Notes](#general-notes)
+* [Data](#data)
+  * [Types of Data](#types-of-data)
+    * [Structured Data](#structured-data)
+    * [Unstructured Data](#unstructured-data)
+  * [Types of Data Levels](#types-of-data-levels)
+    * [Evolution of Data](#evolution-of-data)
+    * [Big Data](#big-data)
+    * [Data Science Illustration](#data-science-illustration)
+  * [Data Characteristics](#data-characteristics)
+    * [Correlations - Examples](#correlations---examples)
+      * [Different Scenarios For Highly Correlated Features](#different-scenarios-for-highly-correlated-features)
+  * [Data Exploration](#data-exploration)
+    * [Visualization - Data Exploration](#visualization---data-exploration)
+  * [Summary](#summary)
+* [Computer Vision (Domains of AI)](#computer-vision--domains-of-ai-)
+  * [CV Applications](#cv-applications)
+  * [Computer Vision Definition](#computer-vision-definition)
+  * [Computer Vision Tasks](#computer-vision-tasks)
+  * [Edge Detection (Traditional Task)](#edge-detection--traditional-task-)
+    * [Original Image](#original-image)
+    * [Edge Detection Applied](#edge-detection-applied)
+  * [Traditional Computer Vision](#traditional-computer-vision)
+    * [Example: Haar-like Features](#example--haar-like-features)
+  * [Deep Learning Approach](#deep-learning-approach)
+  * [Deep Learning vs Traditional](#deep-learning-vs-traditional)
+  * [The AI Process In CV](#the-ai-process-in-cv)
+  * [Discussions](#discussions)
+    * [Aspects To Consider](#aspects-to-consider)
+  * [Modeling](#modeling)
+<!-- TOC -->
+
 # General Notes
 
 - What we have that ancient philosophers didn't is **data**. Data is the fuel of

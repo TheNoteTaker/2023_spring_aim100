@@ -1,5 +1,11 @@
 # Module 8 - Finals
 
+<!-- TOC -->
+* [Module 8 - Finals](#module-8---finals)
+* [General Notes](#general-notes)
+* [Final Exam Prep Video](#final-exam-prep-video)
+<!-- TOC -->
+
 # General Notes
 
 - Final Exam Prep: <https://www.youtube.com/watch?v=4spidigYM8A>
@@ -34,8 +40,11 @@ Topics to study:
 19. Principles of System Thinking
 20. Essay question pertaining to main ethical debates in AI
 
-<u>There are 22 questions total:</u>
+<u>There are 21 questions total:</u>
 
 - 8 multiple choice questions
 - 8 essay questions
 - 5 true/false questions
+
+# Final Exam Prep Video
+

@@ -1,5 +1,33 @@
 # Module 6 - AI Ethics
 
+<!-- TOC -->
+* [Module 6 - AI Ethics](#module-6---ai-ethics)
+* [General Notes](#general-notes)
+* [Top Fears of AI](#top-fears-of-ai)
+  * [Privacy and Surveillance](#privacy-and-surveillance)
+  * [Manipulation of Behavior](#manipulation-of-behavior)
+  * [Opacity of AI](#opacity-of-ai)
+  * [Bias in Decision Systems](#bias-in-decision-systems)
+  * [Human Robot Interaction](#human-robot-interaction)
+  * [Automation and Employment](#automation-and-employment)
+  * [Autonomous Systems](#autonomous-systems)
+  * [Machine Ethics](#machine-ethics)
+  * [Responsibility for Robots](#responsibility-for-robots)
+  * [Singularity and Super-intelligence](#singularity-and-super-intelligence)
+* [Australia Ethics Framework for AI (2019)](#australia-ethics-framework-for-ai--2019-)
+* [More Info](#more-info)
+  * [Resources For Study](#resources-for-study)
+* [Ethical Principles](#ethical-principles)
+* [No Ethical AI](#no-ethical-ai)
+* [Lab 4 - Letter Recognition](#lab-4---letter-recognition)
+  * [Support Vector Machines](#support-vector-machines)
+  * [Creating the SVM](#creating-the-svm)
+  * [Understanding The Model](#understanding-the-model)
+    * [Import Data Used](#import-data-used)
+    * [Two-Class Support Vector Machine and One vs All Mulitclass](#two-class-support-vector-machine-and-one-vs-all-mulitclass)
+  * [Evaluating The Model](#evaluating-the-model)
+<!-- TOC -->
+
 # General Notes
 
 - [Google Slides](https://docs.google.com/presentation/d/1K8BnCBCoX5ZLkmHQlLRit-Ahes1oz5aY04K3AHwCyDY/edit?usp=sharing)

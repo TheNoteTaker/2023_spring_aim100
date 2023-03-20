@@ -1,5 +1,21 @@
 # Module 1 Notes For AIM 100
 
+<!-- TOC -->
+* [Module 1 Notes For AIM 100](#module-1-notes-for-aim-100)
+* [What is AI](#what-is-ai)
+* [Types of AI](#types-of-ai)
+* [General Notes](#general-notes)
+  * [Wolf Example](#wolf-example)
+  * [Academic Pathway](#academic-pathway)
+  * [AI Libraries](#ai-libraries)
+* [Labs](#labs)
+  * [Model Example](#model-example)
+  * [Useful Terms](#useful-terms)
+  * [Linear Regression](#linear-regression)
+    * [Positive Relationship](#positive-relationship)
+    * [Negative Relationship](#negative-relationship)
+<!-- TOC -->
+
 # What is AI
 
 A computer system doing things that normally would require human intelligence.
